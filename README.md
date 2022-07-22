@@ -1,7 +1,8 @@
 ### Hi there 👋
 ##### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
 
-![](https://komarev.com/ghpvc/?username=kelvinpurdom)
+![](https://komarev.com/ghpvc/?username=kelvinpurdom&color=orange)
+
 <!--
 **kelvinpurdom/kelvinpurdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
