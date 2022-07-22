@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there!!!
+
 ##### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
+
+
 
 
 ##### I am coding with the following tools.....
@@ -11,7 +14,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinpurdom&show_icons=true&theme=tokyonight)
 ![](https://komarev.com/ghpvc/?username=kelvinpurdom&color=orange)
 
 
