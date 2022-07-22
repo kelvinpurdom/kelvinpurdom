@@ -1,8 +1,6 @@
-### Hi there!!!
-
-##### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinpurdom&show_icons=true&theme=tokyonight)
 
 
 ##### I am coding with the following tools.....
@@ -14,13 +12,9 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinpurdom&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinpurdom&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![](https://komarev.com/ghpvc/?username=kelvinpurdom&color=orange)
 
-
+##### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
 <!--
 **kelvinpurdom/kelvinpurdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
