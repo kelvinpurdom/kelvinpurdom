@@ -1,4 +1,5 @@
-![Brown Muted Organic Abstract About Myself at Work Creative Presentation](https://user-images.githubusercontent.com/96483815/180599457-b644b04b-ee2d-44c7-8701-d139a737fb77.jpg)
+
+![Brown Muted Organic Abstract About Myself at Work Creative Presentation](https://user-images.githubusercontent.com/96483815/180600029-72530267-5888-4a49-8273-39617de23fc8.jpg)
 
 
 #### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
