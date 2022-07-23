@@ -1,10 +1,7 @@
 ![Brown Muted Organic Abstract About Myself at Work Creative Presentation](https://user-images.githubusercontent.com/96483815/180599457-b644b04b-ee2d-44c7-8701-d139a737fb77.jpg)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinpurdom&show_icons=true&theme=tokyonight)
-
-
-
+#### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
 
 ##### I am coding with the following tools.....
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,7 +14,9 @@
 
 ![](https://komarev.com/ghpvc/?username=kelvinpurdom&color=orange)
 
-##### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinpurdom&show_icons=true&theme=tokyonight)
+
 <!--
 **kelvinpurdom/kelvinpurdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
