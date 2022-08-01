@@ -1,5 +1,6 @@
 ![Brown Muted Organic Abstract About Myself at Work Creative Presentation](https://user-images.githubusercontent.com/96483815/180755688-3630c207-0774-42fe-90e5-531baaf92879.jpg)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinpurdom&theme=vue)
 
 #### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
 
@@ -16,14 +17,14 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
 
 ![](https://komarev.com/ghpvc/?username=kelvinpurdom&color=orange)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinpurdom&theme=vue)
+
 
 
 <!--
