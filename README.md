@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinpurdom&theme=vue)
 
-#### 🔭 I’m currently working on my Pink Floyd lyric generator below, using tokenizing and a LSTM model. 
+#### 🔭 I’m currently working on my Helsinki City Bikes EDA below to polish my data analyst skills. 
 
 ##### I am coding with the following tools.....
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
