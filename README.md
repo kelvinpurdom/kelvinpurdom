@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinpurdom&theme=vue)
 
-#### 🔭 I’m currently working on my Helsinki City Bikes EDA below to polish my data analyst skills and collect some meaningful data 
+#### 🔭 I’m currently working on my Helsinki City Bikes EDA below to polish my data analyst skills and collect some meaningful data, and A poisonous mushroom predictor that is a classification exercise
 
 ##### I am coding with the following tools.....
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
