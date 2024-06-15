@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinpurdom&theme=vue)
 
-#### 🔭 I’m currently working on my Helsinki City Bikes EDA below to polish my data analyst skills, A poisonous mushroom predictor that is a classification exercise, A Pink Floyd Lyric Generator that uses Neural Networks, and a Salary Prediction website.
+#### 🔭 I’m currently working as a Data Science Teacher and Data Analyst freelancer
 
 ##### I am coding with the following tools.....
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
